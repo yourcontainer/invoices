@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "body-parser": "1.17.1",
+    "body-parser": "1.17.2",
     "express": "~4.15.2",
     "immutable": "^3.8.1",
     "lodash": "latest",
