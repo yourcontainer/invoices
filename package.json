@@ -9,7 +9,7 @@
     "lodash": "latest",
     "rc-table": "^5.0.5",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react-dom": "^16.0.1",
     "react-forms": "^2.0.0-beta33",
     "react-redux": "^4.4.5",
     "react-router": "^3.0.0",
